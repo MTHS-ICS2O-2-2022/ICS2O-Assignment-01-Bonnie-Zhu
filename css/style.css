@@ -1,4 +1,35 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Bonnie Z
+* Created on: Feb 2023
 * This file contains the CSS for index.html
 */
+body{
+  background-color: rgb(234, 247, 192);
+}
+h1 {
+  background-color: rgb(201 237 237);
+  padding-left: 40%;
+}
+
+table {
+  padding-left: 20%;
+}
+
+th {
+  height: 3rem;
+  background-color: rgb(109, 247, 183);
+  border: 1px solid rgb(60 194 234);
+  text-align: center;
+  padding:2px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+p {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+img {
+  height:370px;
+  width:600px;
+}
